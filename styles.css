@@ -1,34 +1,34 @@
 /* General Styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: Red;
-    color: White;
+    background-color: black; /* Black background for the body */
+    color: white; /* White text for the body */
     margin: 0;
     padding: 0;
 }
 
-head {
-    background-color: Red;
-    color: White;
-    padding: 10px 0;
+/* Header Styles */
+header {
+    background-color: red; /* Red background for the header */
+    color: white; /* White text for the header */
+    padding: 20px 0;
+    text-align: center;
 }
 
-header .navbar-brand {
-    color: white;
+/* Navigation Bar Styles */
+.navbar-brand {
+    color: white; /* White text for the brand */
 }
 
-header .nav-link {
-    color: white;
+.nav-link {
+    color: white; /* White text for the links */
 }
 
-header .nav-link:hover {
-    color: #ccc;
+.nav-link:hover {
+    color: #ccc; /* Light gray text on hover */
 }
 
+/* Main Content Styles */
 main {
-    padding: 20px;
-}
-
-h1 {
-    color: white;
+    padding: 20px; /* Padding for the main content */
 }
