@@ -1,15 +1,15 @@
 /* General Styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: black;
-    color: white;
+    background-color: Red;
+    color: White;
     margin: 0;
     padding: 0;
 }
 
 head {
-    background-color: red;
-    color: white;
+    background-color: Red;
+    color: White;
     padding: 10px 0;
 }
 
